@@ -1,0 +1,3 @@
+juan - 2
+pepe - 7
+marcos - 10
